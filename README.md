@@ -25,7 +25,7 @@ Sales show a seasonal trend, with peaks in festival seasons.
 
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/1fa295ff-bbb4-4187-8348-370cd83d84fd)
-![Screenshot (37)](https://github.com/user-attachments/assets/080ff8b8-a8df-46d2-a830-7cbb19754228)
+
 
 4️⃣ Quarterly Performance Analysis
 Found that Q3 and Q4 are the most profitable quarters due to increased loan disbursements.
