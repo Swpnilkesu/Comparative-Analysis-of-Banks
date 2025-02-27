@@ -2,7 +2,7 @@
  Analyze banking expenses, sales, and profitability trends across multiple time periods.
 
 
-1️⃣ Expense vs. Profitability Trends
+1️⃣ Expense vs. Profitability Trends.
 Analyzed year-over-year expenses and their impact on net profits.
 Found that operating expenses increased by X% in 2023, while net profit remained stable, indicating cost optimization strategies.
 ICICI Bank showed the highest net profit growth compared to HDFC and MAHABANK.
